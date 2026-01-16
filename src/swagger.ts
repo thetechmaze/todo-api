@@ -13,6 +13,10 @@ const options = {
         url: 'http://localhost:3000',
         description: 'Development server',
       },
+      {
+        url: 'https://todo.epicbugs.in',
+        description: 'Production server',
+      },
     ],
     components: {
       schemas: {
